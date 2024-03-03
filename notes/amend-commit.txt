@@ -1,0 +1,7 @@
+git commit --amend -m "your new message"
+
+git push --force-with-lease remote-name branch-name
+
+git push --force-with-lease origin main
+
+salah
